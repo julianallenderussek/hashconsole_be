@@ -1,1 +1,3 @@
-This is the first file
+
+Run project
+uvicorn main:app --reload
